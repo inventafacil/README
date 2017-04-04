@@ -1,2 +1,2 @@
 # README
-Esse é um repositório base para projetos do grupo InventaFacil
+Esse é um repositório base para projetos do Grupo InventaFacil
